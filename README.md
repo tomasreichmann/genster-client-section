@@ -1,12 +1,16 @@
 # genster-client-section
 
-## Development
+## Install dependencies
+
+`yarn install --pure-lockfile` or `npm install`
+
+## Run Development
 
 `yarn dev` or `npm start dev`
 
-## Deployment to Now
+## Deploy to Now
 
-`now`
+`yarn deploy` or `npm start deploy`
 
 ## Production build
 
