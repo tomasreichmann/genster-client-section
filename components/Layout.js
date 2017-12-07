@@ -29,6 +29,7 @@ const Layout = ({ children, title = 'Genster - klientská sekce' }) => (
       <title>{title}</title>
       <meta charSet='utf-8' />
       <meta name='viewport' content='initial-scale=1.0, width=device-width' />
+      <link rel='shortcut icon' type='image/x-icon' href='/static/favicon.svg' />
     </Head>
     <header>
       <nav>
